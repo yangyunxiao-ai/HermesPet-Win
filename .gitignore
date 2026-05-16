@@ -1,0 +1,21 @@
+# Build
+build/
+dist/
+*.spec
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Screenshots
+screenshot*.png
+
+# Config (contains API keys)
+config.json
